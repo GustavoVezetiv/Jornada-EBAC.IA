@@ -1,4 +1,4 @@
 # testejornada
-teste jornada para exemplificar
+Jornada IA - EBAC
 
-Alteração para mostrar o commit
+Alteração para mostrar o commit, teste
